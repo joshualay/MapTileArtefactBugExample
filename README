@@ -1,3 +1,8 @@
+Xcode 8.1
+iPad Air - iOS 10.1 only
+
 This an example project to show map tile artefacts when rendering overlays with a line width.
 
 When zooming out so the line width expands, and then zooming in artefacts can appear in the neighbouring map tiles. The artefacts appear to be from the stroke part of the overlay.
+
+This does not affect iOS 9.

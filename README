@@ -1,0 +1,3 @@
+This an example project to show map tile artefacts when rendering overlays with a line width.
+
+When zooming out so the line width expands, and then zooming in artefacts can appear in the neighbouring map tiles. The artefacts appear to be from the stroke part of the overlay.
